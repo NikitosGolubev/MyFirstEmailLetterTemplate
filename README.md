@@ -18,4 +18,4 @@ Firstly, I've not been even aware of what email later is in terms of development
 + The ability to learn rapidly to eliminate my mistake.
 
 ---
-**I'm too lazy to translate it on Russian, sorry ;)
+**I'm too lazy to translate it on Russian, sorry ;)**
